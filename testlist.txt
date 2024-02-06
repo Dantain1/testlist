@@ -1,8 +1,8 @@
-||208.67.222.222^
-||208.67.220.220^
-||146.112.0.0/16^
-||155.190.0.0/16^
-||151.186.0.0/16^
-||155.190.33.30^
-||opendns.com^
-||swg-url-proxy-https.sigproxy.qq.opendns.com^
+||208.67.222.222^$important
+||208.67.220.220^$important
+||146.112.0.0/16^$important
+||155.190.0.0/16^$important
+||151.186.0.0/16^$important
+||155.190.33.30^$important
+||opendns.com^$important
+||swg-url-proxy-https.sigproxy.qq.opendns.com^$important
